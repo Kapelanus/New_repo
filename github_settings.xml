@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="ef0417d1-c54b-40bf-9c6d-b66bb7d4af02" name="wanteldrochim@wp.pl">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="CLONE_GIT_USING_SSH" value="true" />
+  </component>
+</application>
